@@ -13,4 +13,6 @@
 /usr/local/bin/multics2 -b
 /usr/local/bin/multics3 -b
 /usr/local/bin/multics4 -b
+/usr/local/bin/multics5 -b
+/usr/local/bin/multics6 -b
 exit 0
